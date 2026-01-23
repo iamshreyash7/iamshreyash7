@@ -6,8 +6,6 @@
 
 </div>
 
-## 🌱 About Me
-
 I'm a **beginner blockchain developer** just starting my journey into Web3 and smart contracts! Currently learning Solidity and exploring the exciting world of decentralized applications.
 
 - 🔭 Just built my **first blockchain project** - Cronos x402 Spending Wallet!
