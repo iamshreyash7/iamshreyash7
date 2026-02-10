@@ -1,115 +1,63 @@
-# Hi there! 👋 I'm Shreyash
+# Shreyash Sharma
 
-<div align="center">
+**Software Development Engineer | QA Engineer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamshreyash7&color=blueviolet)
+[![Profile Views](https://komarev.com/ghpvc/?username=iamshreyash7&color=blueviolet)](https://github.com/iamshreyash7)
 
-</div>
+---
 
-I'm a **beginner blockchain developer** just starting my journey into Web3 and smart contracts! Currently learning Solidity and exploring the exciting world of decentralized applications.
+## 🛠️ Technical Stack
 
-- 🔭 Just built my **first blockchain project** - Cronos x402 Spending Wallet!
-- 🌱 Currently learning **Solidity basics** and **smart contract development**
-- 📚 Exploring **Web3**, **Ethereum**, and **DeFi concepts**
-- 🎯 Goal: Build more projects and contribute to the Web3 ecosystem
-- 💡 Learning by doing - building real projects to understand blockchain better
-- 🤝 Made this with help from friends and AI tools - still learning every day!
+**Languages & Frameworks**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 🛠️ Learning Stack
+**Development & Testing Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white)
 
-### Currently Learning
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### Tools I'm Using
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+## 💼 What I Do
 
-## 🚀 My First Project!
+- 🔧 Build and test smart contracts with focus on quality and security
+- 🧪 Develop automated testing frameworks for blockchain applications
+- 📝 Create technical documentation and test cases
+- 🔍 Perform rigorous code reviews and QA processes
+- 🚀 Deploy and monitor production-grade dApps
 
-### 🤖 [Cronos x402 Spending Wallet](https://github.com/iamshreyash7/cronos-x402-spending-wallet)
-**My first blockchain project - A spending wallet for AI agents**
+---
 
-This is my first ever smart contract project! I built it for the Cronos x402 Hackathon with help from friends. It allows you to give AI agents spending limits - they can make payments but only up to a certain amount.
+## 🚀 Featured Project
 
-**What I learned building this:**
-- ✅ Writing my first Solidity smart contract
-- ✅ Deploying contracts to Cronos Testnet
-- ✅ Connecting a website to blockchain with MetaMask
-- ✅ Using Ethers.js for Web3 interactions
-- ✅ How blockchain transactions work
-- ✅ Debugging smart contracts and fixing errors
+### [Cronos x402 Spending Wallet](https://github.com/iamshreyash7/cronos-x402-spending-wallet)
+AI-powered spending wallet with limit controls on Cronos blockchain.
 
-**Tech used:** Solidity, JavaScript, HTML/CSS, Ethers.js, MetaMask
+**Tech:** Solidity, Ethers.js, Web3  
+**Features:** Smart contract development, frontend integration, testnet deployment
 
-🌐 [Try it Live](https://cronos-x402-spending-wallet.vercel.app/) | 📜 [View Contract](https://explorer.cronos.org/testnet/address/0xD3e45Fdbe76735cDcfCD0e6D386b62C84D54720c)
+🌐 [Live Demo](https://cronos-x402-spending-wallet.vercel.app/) | 📜 [Contract](https://explorer.cronos.org/testnet/address/0xD3e45Fdbe76735cDcfCD0e6D386b62C84D54720c)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iamshreyash7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamshreyash7&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
 
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshreyash7&show_icons=true&theme=radical&hide_border=true&count_private=true)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamshreyash7&theme=radical&hide_border=true)
+## 📫 Connect
 
-</div>
-
-## 🎓 Learning Journey
-
-**My Web3 Journey**
-- ✅ Learned basic Solidity syntax
-- ✅ Built my first smart contract
-- ✅ Deployed on testnet (Cronos)
-- ✅ Created a Web3 frontend
-- ✅ Participated in my first hackathon
-- 🔄 Currently: Learning more Solidity patterns and best practices
-
-## 🏆 Achievements
-
-- 🎉 **First Smart Contract Deployed** - Cronos Testnet (2026)
-- 🚀 **First Hackathon** - Cronos x402 Hackathon (2026)
-- 💻 **First Web3 Project** - Spending Wallet for AI Agents
-- 🌟 Learning and building in public!
-
-## 📚 What I'm Learning Next
-
-- [ ] Advanced Solidity patterns
-- [ ] DeFi protocols basics
-- [ ] Smart contract security
-- [ ] Testing with Hardhat and Foundry
-- [ ] More complex dApps
-- [ ] Contributing to open source Web3 projects
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamshreyash7)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshreyash7@gmail.com)
-
-</div>
-
-## 💬 A Note About My Journey
-
-I'm still learning and this is just the beginning! I built my first project with guidance from peers. I believe in learning by building and sharing the journey openly.
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imshreyash7@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamshreyash7/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/iamshreyash7)
 
 ---
 
 <div align="center">
-
-### "Every expert was once a beginner. Keep building! 💪"
-
-
-**Currently building:** More projects to strengthen my Solidity skills
-**Status:** Open to learning opportunities and collaborations
-
+  <i>Building quality software, one test at a time.</i>
 </div>
-
----
-
-<sub>Made with ❤️ by a learning developer | Open to feedback and suggestions!</sub>
